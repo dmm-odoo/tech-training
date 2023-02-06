@@ -1,7 +1,0 @@
-echo "# tech-training" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M sandbox
-git remote add origin https://github.com/dmm-odoo/tech-training.git
-git push -u origin sandbox
