@@ -12,7 +12,7 @@
     
     'author': 'Odoo',
     
-    'website': 'https://www.odoo.com'.
+    'website': 'https://www.odoo.com',
     
     'category': 'Training',
     'version': '0.1',
