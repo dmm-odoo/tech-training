@@ -16,4 +16,4 @@ class Course(models.Model):
                                        ('expert', 'Expert')],
                              copy=False)
     
-    active = fields.boolean(string='Active', default=True)
+    active = fields.Boolean(string='Active', default=True)
